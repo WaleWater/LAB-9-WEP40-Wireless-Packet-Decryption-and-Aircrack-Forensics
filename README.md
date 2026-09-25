@@ -1,0 +1,2 @@
+# LAB-9-WEP40-Wireless-Packet-Decryption-and-Aircrack-Forensics
+The objective is to identify management, control, &amp; data frames within an 802.11 capture. Another objective is to understand WEP40, RC4, IV reuse, &amp; its integrity limitations.The lab requires using Aircrack-ng &amp; airdecap-ng on the supplied historical capture.It also aims to extract network endpoints, protocols, images, &amp; HTML from decrypted traffic
